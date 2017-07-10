@@ -1,6 +1,6 @@
 var fun_facts = ["I have six cats", "I play piano", "I am not a morning person",
 "I make the best cookies", "I am from Metro Detroit", "I am 5 ft 4 in tall",
-"I am 21 years old"]
+"I am 21 years old"];
 
 // Returns a random fact
 function random_fact(){
